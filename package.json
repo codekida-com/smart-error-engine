@@ -1,0 +1,50 @@
+{
+  "name": "@codekida/smart-error-engine",
+  "version": "0.1.0",
+  "description": "Universal runtime diagnostic engine that explains why your code failed",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "bin",
+    "docs"
+  ],
+  "bin": {
+    "smart-error-engine": "./bin/smart-error-engine.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "lab": "node scripts/lab.js",
+    "test:ai": "node test-lab/test-ai-suite.js",
+    "prepublishOnly": "npm run build"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "keywords": [
+    "smart-error-engine",
+    "error-handler",
+    "diagnostic-engine",
+    "codekida",
+    "root-cause",
+    "plain-english-logs"
+  ],
+  "author": "Akshay Kolhapure",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codekida-com/smart-error-engine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/codekida-com/smart-error-engine/issues"
+  },
+  "homepage": "https://www.npmjs.com/package/smart-error-engine",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  },
+  "exports": {
+    ".": "./dist/index.js",
+    "./register": "./dist/register.js"
+  }
+}
