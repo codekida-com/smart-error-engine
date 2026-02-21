@@ -6,9 +6,9 @@
 > **A deterministic, lightweight, universal diagnostic engine.**
 > @codekida/smart-error-engine intercepts runtime errors, explains the root cause in plain English, and provides actionable fixes—all with zero configuration.
 
-![npm version](https://img.shields.io/npm/v/smart-error-engine?style=flat-square)
-![npm downloads](https://img.shields.io/npm/dm/smart-error-engine?style=flat-square)
-![License](https://img.shields.io/npm/l/smart-error-engine?style=flat-square)
+![npm version](https://img.shields.io/npm/v/@codekida/smart-error-engine?style=flat-square)
+![npm downloads](https://img.shields.io/npm/dm/@codekida/smart-error-engine?style=flat-square)
+![License](https://img.shields.io/npm/l/@codekida/smart-error-engine?style=flat-square)
 ![Build Status](https://img.shields.io/github/actions/workflow/status/smart-error-engine/smart-error-engine/ci.yml)
 
 ---
@@ -378,7 +378,7 @@ We welcome new heuristics!
 
 ---
 
-[npm](https://www.npmjs.com/package/@codekida/smart-engine) | [GitHub](https://github.com/codekida-com/smart-error-engine)
+[npm](https://www.npmjs.com/package/@codekida/smart-error-engine) | [GitHub](https://github.com/codekida-com/smart-error-engine)
 
 MIT © @codekida/smart-error-engine
 ````

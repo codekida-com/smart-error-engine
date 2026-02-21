@@ -46,5 +46,8 @@
   "exports": {
     ".": "./dist/index.js",
     "./register": "./dist/register.js"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
