@@ -1,6 +1,6 @@
 # @codekida/smart-error-engine
 
-📦 npm: https://www.npmjs.com/package/smart-error-engine  
+📦 npm: https://www.npmjs.com/package/@codekida/smart-error-engine  
 🐙 GitHub: https://github.com/codekida-com/smart-error-engine
 
 > **A deterministic, lightweight, universal diagnostic engine.**
@@ -378,7 +378,7 @@ We welcome new heuristics!
 
 ---
 
-[npm](https://www.npmjs.com/package/smart-error-engine) | [GitHub](https://github.com/codekida-com/smart-error-engine)
+[npm](https://www.npmjs.com/package/@codekida/smart-engine) | [GitHub](https://github.com/codekida-com/smart-error-engine)
 
 MIT © @codekida/smart-error-engine
 ````

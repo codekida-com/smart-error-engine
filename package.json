@@ -38,7 +38,7 @@
   "bugs": {
     "url": "https://github.com/codekida-com/smart-error-engine/issues"
   },
-  "homepage": "https://www.npmjs.com/package/smart-error-engine",
+  "homepage": "https://www.npmjs.com/package/@codekida/-engine",
   "devDependencies": {
     "typescript": "^5.0.0",
     "@types/node": "^20.0.0"
