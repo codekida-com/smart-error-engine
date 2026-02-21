@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - develop # Triggers the workflow when merged or pushed to the develop branch
+  workflow_dispatch:
 
 jobs:
   build_test_publish:
